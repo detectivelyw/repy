@@ -1,0 +1,1 @@
+echo "<script 01> Hello World!" > ./test_files/redirection_file_01.txt
